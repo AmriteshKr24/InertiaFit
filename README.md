@@ -1,1 +1,2 @@
 # InertiaFit
+AI Fitness Trainer
